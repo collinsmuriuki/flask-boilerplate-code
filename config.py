@@ -6,6 +6,7 @@ class Config:
     '''
     
     SQLALCHEMY_DATABASE_URI = ""
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
     UPLOADED_PHOTOS_DEST = "app/static/photos"
 
     # email configurations

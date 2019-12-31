@@ -1,4 +1,4 @@
-<h1 align="center">Flask Boilerplate Code for Large Applications 👋</h1>
+<h1 align="center">Flask Boilerplate Code for Large Applications 🍛</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-version 1.1.1-blue.svg?cacheSeconds=2592000" />
   <a href="LICENSE" target="_blank">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Boilerplate code for building large flask applications.
+> Boilerplate code for building large flask applications. With authentication and RESTFUL API blueplints.
 
 ## Usage
 Clone the project or download zip file.
