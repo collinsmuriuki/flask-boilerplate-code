@@ -1,6 +1,6 @@
 <h1 align="center">Flask Boilerplate Code for Large Applications 🍛</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-version 1.2.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-version 1.2.2-blue.svg?cacheSeconds=2592000" />
   <a href="LICENSE" target="_blank">
     <img alt="License: GNU GENERAL PUBLIC LICENSE" src="https://img.shields.io/badge/License-GNU GENERAL PUBLIC LICENSE-yellow.svg" />
   </a>
